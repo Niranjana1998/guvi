@@ -4,4 +4,4 @@ if(a>0):
 elif(a<0):
   print ("negative")
 elif(a==0):
-  print ("neutral")
+  print ("zero")
