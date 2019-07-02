@@ -1,4 +1,4 @@
-a=10
+a=int(input())
 if(a>0):
   print ("positive")
 elif(a<0):
