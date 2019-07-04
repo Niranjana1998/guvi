@@ -1,5 +1,5 @@
-list=[]
+number=[]
 for n in range(3):
     numbers = int(input())
-    list.append(numbers)
-print(max(list))
+    number.append(numbers)
+print(max(number))
