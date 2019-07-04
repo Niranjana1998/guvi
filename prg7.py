@@ -1,3 +1,3 @@
-N=int(input())
-for i in range(N):
+strip=int(input())
+for i in range(strip):
   print("Hello")
