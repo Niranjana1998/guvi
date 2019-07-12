@@ -1,2 +1,2 @@
-nj=input()
+nj=str(input())
 print(nj[::-1])
